@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367041111358",
+    "project_id": "firestore-sahrul040",
+    "storage_bucket": "firestore-sahrul040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367041111358:android:0af9cd809521da470cf86f",
+        "android_client_info": {
+          "package_name": "com.sahrul_f55121040.github2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367041111358-oauq31plr3seef1t7670ddnv177tbgqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBygMXF6ydbB3YB9xBZwmF809XrqZamyUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367041111358-oauq31plr3seef1t7670ddnv177tbgqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
